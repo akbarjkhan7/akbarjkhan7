@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Akbar 👋
 
-<!--
-**akbarjkhan7/akbarjkhan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an MSc Data Science graduate with a Distinction from Durham University, with a background in product management and CRM. I work at the intersection of data, product, and decision-making - using analytics and machine learning to inform product strategy, customer experience, and business outcomes.
 
-Here are some ideas to get you started:
+## 🔍 What I’ve worked on and currently working on
+- Machine Learning coursework and applied models in R and Python  
+- Data Exploration, Visualisation & Unsupervised Learning (DEVUL) assignments  
+- Translating analytical outputs into product, CRM, and customer-facing insights  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Core focus areas
+- Machine Learning (supervised & unsupervised)
+- Data Exploration & Visualisation (DEVUL)
+- Product analytics & decision-making
+- CRM, customer journeys & behavioural insights
+- Experimentation, evaluation & interpretation
+
+## 📂 Featured work
+- DEVUL coursework: EDA, clustering, PCA, visual analytics  
+- Machine Learning assignments: regression, classification, regularisation, trees  
+- Applied notebooks with clear reasoning, assumptions, and trade-offs  
+
+*(Pinned repositories will be updated as work is completed.)*
+
+## 📫 Let’s connect
+- LinkedIn: https://www.linkedin.com/in/your-link-here  
+- Portfolio: coming soon
