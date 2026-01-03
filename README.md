@@ -4,7 +4,8 @@ I’m an MSc Data Science graduate with a Distinction from Durham University, wi
 
 ## 🔍 What I’ve worked on and currently working on
 - Machine Learning coursework and applied models in R and Python  
-- Data Exploration, Visualisation & Unsupervised Learning (DEVUL) assignments  
+- Data Exploration, Visualisation & Unsupervised Learning (DEVUL) assignments
+- Text Mining and Language Analytics - Product Review Rating Prediction - in Python
 - Translating analytical outputs into product, CRM, and customer-facing insights  
 
 ## 🧠 Core focus areas
