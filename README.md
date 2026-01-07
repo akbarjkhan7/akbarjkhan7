@@ -24,4 +24,4 @@ I’m an MSc Data Science graduate with a Distinction from Durham University, wi
 
 ## Let’s connect
 - LinkedIn: https://www.linkedin.com/in/akbarjamalkhan/ 
-- Portfolio: coming soon
+- Portfolio: (https://akbarjkhan7.github.io/); more to be added!
